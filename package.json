@@ -1,7 +1,7 @@
 {
-  "name": "Queen Riam",
+  "name": "queenriam",
   "version": "1.0.0",
-  "description": "WhatsApp Bot",
+  "description": "whatsappbot",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
